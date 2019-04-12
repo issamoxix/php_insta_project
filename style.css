@@ -1,0 +1,14 @@
+body {
+	background: url("bg.jpg");
+	background-size: cover;
+	background-repeat:no-repeat;
+	color: white;
+	height: auto;
+}th,td,table{
+	border:1px solid red;
+	background: #00000080;
+}
+th, td {
+  padding: 5px;
+  text-align: left;    
+}
